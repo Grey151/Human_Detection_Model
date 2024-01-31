@@ -11,6 +11,8 @@ Ensure you have the following software installed before running the project:
 - Python 3.8
 - TensorFlow
 - OpenCV
+- matplotlib
+- scikit 
 # Features
 
 ## Image Capture
